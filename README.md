@@ -12,6 +12,7 @@ In: Proc. of 7th ACM Conference on Information-Centric Networking (ICN), p. 77â€
     >
     >In this paper, we explore the emerging CoAP protocol building blocks and how they contribute to an information-centric network architecture for a data-oriented RESTful Web of Things. We discuss design options and measure characteristic performances of different network configurations, which deploy CoAP proxies and OSCORE content object security, and compare with NDN. Our findings indicate an almost continuous design space ranging from plain CoAP at the one end to NDN on the other. On both ends---ICN and CoAP---we identify protocol features and aspects whose mutual transfer potentially improves design and operation of the other.
 
-<!-- TODO: update URLs -->
+Please follow our [Getting Started](getting-started.md) instructions for further information on how to compile and execute the code.
+
 [paper-link]:https://doi.org/10.1145/3405656.3418718
 [paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-green
